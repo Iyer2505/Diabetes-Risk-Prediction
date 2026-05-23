@@ -1,0 +1,3 @@
+outcome_label,patient_count,avg_glucose,avg_bmi,avg_age,avg_blood_pressure,avg_insulin,diabetes_rate
+Diabetes,268,142.1306,35.3836,37.0672,75.1231,164.7015,1
+No Diabetes,500,110.682,30.8856,31.19,70.92,127.792,0

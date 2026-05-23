@@ -1,0 +1,11 @@
+age_group,outcome_label,patient_count,avg_glucose,avg_bmi,avg_diabetes_pedigree
+21-30,Diabetes,90,140.3222,36.8144,0.5771
+21-30,No Diabetes,327,108.052,30.6994,0.411
+31-40,Diabetes,76,140.5395,35.0697,0.5872
+31-40,No Diabetes,81,114.1481,30.8383,0.4899
+41-50,Diabetes,64,139.6406,35.1031,0.4671
+41-50,No Diabetes,49,108.0,33.7163,0.4336
+51-60,Diabetes,31,153.4516,33.0871,0.5607
+51-60,No Diabetes,23,124.5652,29.8609,0.4866
+60+,Diabetes,7,155.2857,33.1286,0.5276
+60+,No Diabetes,20,130.25,28.365,0.4179

@@ -1,0 +1,8 @@
+bmi_category,outcome_label,patient_count,avg_glucose,avg_age
+Normal,Diabetes,7,157.5714,44.2857
+Normal,No Diabetes,95,105.5579,30.9789
+Obese,Diabetes,221,143.5837,36.6561
+Obese,No Diabetes,262,111.6221,31.271
+Overweight,Diabetes,40,131.4,38.075
+Overweight,No Diabetes,139,112.8561,31.3885
+Underweight,No Diabetes,4,95.25,24.0

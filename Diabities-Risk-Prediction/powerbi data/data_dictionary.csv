@@ -1,0 +1,24 @@
+table,column,description
+fact_patients,patient_id,Unique patient row identifier for dashboard use
+fact_patients,Pregnancies,Number of pregnancies
+fact_patients,Glucose,Plasma glucose concentration
+fact_patients,BloodPressure,Diastolic blood pressure
+fact_patients,SkinThickness,Triceps skin fold thickness
+fact_patients,Insulin,2-hour serum insulin
+fact_patients,BMI,Body Mass Index
+fact_patients,DiabetesPedigreeFunction,Diabetes pedigree score
+fact_patients,Age,Patient age
+fact_patients,Outcome,"Target variable: 0 = No Diabetes, 1 = Diabetes"
+fact_patients,outcome_label,Readable outcome label
+fact_patients,glucose_category,Glucose risk grouping
+fact_patients,bmi_category,BMI category
+fact_patients,age_group,Age group bucket
+model_performance,model,Machine learning model name
+model_performance,accuracy,Share of all predictions that were correct
+model_performance,precision,Share of predicted diabetes cases that were correct
+model_performance,recall,Share of actual diabetes cases correctly identified
+model_performance,f1_score,Balance of precision and recall
+model_performance,roc_auc,Model discrimination score on test data
+diabetes_predictions,diabetes_probability,Predicted probability of diabetes
+feature_importance,importance,Relative model feature importance
+risk_summary,risk_group,"Low, medium, or high predicted risk group"

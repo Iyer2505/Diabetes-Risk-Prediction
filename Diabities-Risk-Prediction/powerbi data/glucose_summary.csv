@@ -1,0 +1,7 @@
+glucose_category,outcome_label,patient_count,avg_bmi,avg_age
+Diabetes Range,Diabetes,176,35.9631,37.6818
+Diabetes Range,No Diabetes,121,31.8793,35.9008
+Normal,Diabetes,14,35.6071,34.9286
+Normal,No Diabetes,178,30.032,28.7022
+Prediabetes Range,Diabetes,78,34.0359,36.0641
+Prediabetes Range,No Diabetes,201,31.0433,30.5572
