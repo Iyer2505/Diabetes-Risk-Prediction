@@ -215,27 +215,27 @@ The EDA focused on understanding differences between diabetes-positive and non-d
 
 ### Diabetes Outcome Distribution
 
-![Outcome Distribution](images/outcome_distribution.png)
+![Outcome Distribution](Diabities-Risk-Prediction/images/outcome_distribution.png)
 
 ### Invalid Zero Values Before Cleaning
 
-![Invalid Zero Values](images/invalid_zero_values.png)
+![Invalid Zero Values](Diabities-Risk-Prediction/images/invalid_zero_values.png)
 
 ### Glucose Distribution by Outcome
 
-![Glucose by Outcome](images/glucose_by_outcome.png)
+![Glucose by Outcome](Diabities-Risk-Prediction/images/glucose_by_outcome.png)
 
 ### BMI Distribution by Outcome
 
-![BMI by Outcome](images/bmi_by_outcome.png)
+![BMI by Outcome](Diabities-Risk-Prediction/images/bmi_by_outcome.png)
 
 ### Age Distribution by Outcome
 
-![Age by Outcome](images/age_by_outcome.png)
+![Age by Outcome](Diabities-Risk-Prediction/images/age_by_outcome.png)
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](Diabities-Risk-Prediction/images/correlation_heatmap.png)
 
 ---
 
@@ -329,27 +329,27 @@ The model achieved a strong ROC-AUC score, meaning it can reasonably distinguish
 
 ### Model Comparison by ROC-AUC
 
-![Model Comparison ROC-AUC](images/model_comparison_roc_auc.png)
+![Model Comparison ROC-AUC](Diabities-Risk-Prediction/images/model_comparison_roc_auc.png)
 
 ### Model Comparison by Recall
 
-![Model Comparison Recall](images/model_comparison_recall.png)
+![Model Comparison Recall](Diabities-Risk-Prediction/images/model_comparison_recall.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](Diabities-Risk-Prediction/images/confusion_matrix.png)
 
 ### ROC Curve
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](Diabities-Risk-Prediction/images/roc_curve.png)
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Diabities-Risk-Prediction/images/feature_importance.png)
 
 ### Prediction Probability Distribution
 
-![Prediction Probability Distribution](images/prediction_probability_distribution.png)
+![Prediction Probability Distribution](Diabities-Risk-Prediction/images/prediction_probability_distribution.png)
 
 ---
 
@@ -392,15 +392,15 @@ The dashboard contains three main pages:
 
 ### Patient Risk Overview
 
-![Patient Risk Overview](images/dashboard_patient_overview.png)
+![Patient Risk Overview](Diabities-Risk-Prediction/images/dashboard_patient_overview.png)
 
 ### Risk Factor Analysis
 
-![Risk Factor Analysis](images/dashboard_risk_factor_analysis.png)
+![Risk Factor Analysis](Diabities-Risk-Prediction/images/dashboard_risk_factor_analysis.png)
 
 ### Model Performance
 
-![Model Performance](images/dashboard_model_performance.png)
+![Model Performance](Diabities-Risk-Prediction/images/dashboard_model_performance.png)
 
 ---
 
@@ -559,13 +559,6 @@ Completed:
 
 ---
 
-## 👤 Author
-
-**Bhargavi Marghashayam Venkatesh**
-
-GitHub: [@bhargavimv27](https://github.com/bhargavimv27)
-
----
 
 ## ⚠️ Final Disclaimer
 
