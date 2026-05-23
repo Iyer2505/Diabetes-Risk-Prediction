@@ -392,15 +392,15 @@ The dashboard contains three main pages:
 
 ### Patient Risk Overview
 
-![Patient Risk Overview](Diabities-Risk-Prediction/images/dashboard_patient_overview.png)
+![Patient Risk Overview](Diabities-Risk-Prediction/images/dashboard_patient_overview.png.png)
 
 ### Risk Factor Analysis
 
-![Risk Factor Analysis](Diabities-Risk-Prediction/images/dashboard_risk_factor_analysis.png)
+![Risk Factor Analysis](Diabities-Risk-Prediction/images/dashboard_risk_factor_analysis.png.png)
 
 ### Model Performance
 
-![Model Performance](Diabities-Risk-Prediction/images/dashboard_model_performance.png)
+![Model Performance](Diabities-Risk-Prediction/images/dashboard_model_performance.png.png)
 
 ---
 
